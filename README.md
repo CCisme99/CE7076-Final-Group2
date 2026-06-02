@@ -1,5 +1,9 @@
 # Antimicrobial Peptide Classification Using Protein Sequence Features
 
+## COLAB
+https://colab.research.google.com/drive/1PXrH_456vbON3IA9W43z-7QgNt2Fr6rv?usp=sharing
+
+
 ## Overview
 
 Antimicrobial Peptides (AMPs) are short protein sequences that play a crucial role in the innate immune system by inhibiting the growth of bacteria, fungi, viruses, and other pathogens. Due to the increasing threat of antibiotic resistance, AMP prediction has become an important research topic in bioinformatics and computational biology.
