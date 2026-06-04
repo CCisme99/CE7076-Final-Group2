@@ -275,47 +275,6 @@ python src/models.py
 
 ---
 
-## Project Structure
-
-```text
-AMP-Classification
-│
-├── data
-│   ├── raw
-│   │   ├── AMPlify_AMP_train_common.fa
-│   │   ├── AMPlify_AMP_test_common.fa
-│   │   ├── AMPlify_non_AMP_train_balanced.fa
-│   │   └── AMPlify_non_AMP_test_balanced.fa
-│   │
-│   └── processed
-│       ├── train.csv
-│       └── test.csv
-│
-├── notebooks
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_feature_extraction.ipynb
-│   └── 03_model_training.ipynb
-│
-├── src
-│   ├── preprocessing.py
-│   ├── features.py
-│   └── models.py
-│
-├── results
-│   ├── metrics.csv
-│   ├── confusion_matrix.png
-│   └── figures
-│
-├── presentation
-│   └── Final_Presentation.pptx
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 ## Results
 
 ### Model Performance
